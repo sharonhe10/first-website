@@ -10,3 +10,14 @@ h2 {
 img {
     width: 500px;
 }
+
+.follow-button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.follow-button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
